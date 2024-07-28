@@ -1,5 +1,5 @@
 
-= Project: Dispensa: Parkinson's Pill Dispenser
+= Project: Dispensa (Parkinson's Pill Dispenser)
 
 Code for the servo motor used in our proposed model of a pill dispenser specially designed for Parkinson's patients who have a difficult time taking their many tiny pills with ease.
 
@@ -12,7 +12,7 @@ Code for the servo motor used in our proposed model of a pill dispenser speciall
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the photo attached to the sketch. No schematic available yet.
+Assemble the circuit following the photo attached (boardphoto.jpg). No schematic available yet.
 
 == Step 3: Load the code
 
